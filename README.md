@@ -40,7 +40,7 @@ See the [data dictionary](Dataset/data_dictionary.csv) for detailed field descri
 ## Entity Relationship Diagram
 
 <div align="center">
-  <img src="assets/image.png" alt="ER Diagram" width="600"/>
+  <img src="assets/er.png" alt="ER Diagram" width="600"/>
 </div>
 
 ---
@@ -99,11 +99,11 @@ SWITCH(
 Explore the interactive Power BI dashboard for visual insights:
 
 <div align="center">
-  <img src="assets/Restaurant Ratings Analysis_page-0001.png" alt="Dashboard Page 1" width="700"/>
-  <img src="assets/Restaurant Ratings Analysis_page-0002.png" alt="Dashboard Page 2" width="700"/>
-  <img src="assets/Restaurant Ratings Analysis_page-0003.png" alt="Dashboard Page 3" width="700"/>
-  <img src="assets/Restaurant Ratings Analysis_page-0004.png" alt="Dashboard Page 4" width="700"/>
-  <img src="assets/Restaurant Ratings Analysis_page-0005.png" alt="Dashboard Page 5" width="700"/>
+  <img src="assets/ss1.png" alt="Dashboard Page 1" width="700"/>
+  <img src="assets/ss2.png" alt="Dashboard Page 2" width="700"/>
+  <img src="assets/ss3.png" alt="Dashboard Page 3" width="700"/>
+  <img src="assets/ss4.png" alt="Dashboard Page 4" width="700"/>
+  <img src="assets/ss5.png" alt="Dashboard Page 5" width="700"/>
 </div>
 
 ---
